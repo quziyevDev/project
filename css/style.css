@@ -6,4 +6,12 @@
   text-decoration: none;
   color: inherit;
   font-family: sans-serif;
+}
+
+.container {
+  padding: 15px 96px;
+}
+
+.navbar {
+  display: flex;
 }/*# sourceMappingURL=style.css.map */
