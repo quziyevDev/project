@@ -20,6 +20,14 @@ body {
   color: #f8b458;
 }
 
+@media (min-width: 430px) {
+  .navbar {
+    text-align: center;
+  }
+  .navbar__menu .menu {
+    display: block;
+  }
+}
 .navbar {
   display: flex;
   justify-content: space-between;
