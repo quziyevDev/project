@@ -4,10 +4,18 @@
     box-sizing: border-box;
     list-style-type: none;
     text-decoration: none;
-    color: inherit;
+    color: white;
     font-family: sans-serif;
 }
 
+body {
+    background-color: #241a3c;
+}
+
 .container {
-    padding: 15px 96px;
+    padding-top: 50px;
+    padding-left: 96px;
+    padding-right: 96px;
+    color: #e96bb4;
+    color: #f8b458;
 }
